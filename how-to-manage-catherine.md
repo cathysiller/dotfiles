@@ -38,7 +38,7 @@
 ## Near term
 
 - Ramp up on team technologies so I can work autonomously ~100% of the time --> shoutout Nick
-- Understand the context of my work — why it’s important, who the users are, etc.
+- Understand the context of my work more — why it’s important, who the users are, etc.
 - Familiarize myself with other marketing aspects that can ultimately benefit our website
 - Network with other engineers more
 - Figure our a career path/possibilities
